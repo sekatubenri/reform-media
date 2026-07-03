@@ -1,1 +1,147 @@
-﻿[{"title":"キッチンリフォームの費用相場2026年版","filename":"kitchen-cost-2026.json","category":"kitchen"},{"title":"浴室リフォームの費用と工期を解説","filename":"bathroom-cost-2026.json","category":"bathroom"},{"title":"外壁塗装の費用相場と業者選び2026","filename":"exterior-paint-2026.json","category":"exterior"},{"title":"リフォームで失敗しない業者選び方10選","filename":"reform-company-select-2026.json","category":"beginner"},{"title":"トイレリフォームの費用と人気メーカー比較","filename":"toilet-reform-2026.json","category":"bathroom"},{"title":"屋根修理・葺き替えの費用相場2026","filename":"roof-repair-2026.json","category":"exterior"},{"title":"マンションリフォームの注意点と費用","filename":"mansion-reform-2026.json","category":"beginner"},{"title":"リフォームローンの種類と金利比較2026","filename":"reform-loan-2026.json","category":"beginner"},{"title":"増築リフォームの費用と注意事項","filename":"extension-reform-2026.json","category":"beginner"},{"title":"床リフォーム（フローリング）の費用比較","filename":"floor-reform-2026.json","category":"kitchen"},{"title":"窓リフォームで断熱・結露を解消する方法","filename":"window-reform-2026.json","category":"exterior"},{"title":"リフォーム補助金・助成金の種類と申請法2026","filename":"reform-subsidy-2026.json","category":"beginner"},{"title":"キッチン交換の費用と人気メーカーTOP5","filename":"kitchen-replace-2026.json","category":"kitchen"},{"title":"バリアフリーリフォームの費用と補助金","filename":"barrier-free-2026.json","category":"beginner"},{"title":"システムキッチンの選び方と費用比較","filename":"system-kitchen-2026.json","category":"kitchen"},{"title":"ユニットバス交換の費用と工期を解説","filename":"unit-bath-2026.json","category":"bathroom"},{"title":"壁紙・クロス張替えの費用相場2026","filename":"wallpaper-reform-2026.json","category":"beginner"},{"title":"ホームプロとリショップナビの違いを比較","filename":"homepro-vs-rishop-2026.json","category":"beginner"},{"title":"外壁サイディング工事の費用相場","filename":"siding-reform-2026.json","category":"exterior"},{"title":"子供部屋リフォームのアイデアと費用","filename":"kids-room-reform-2026.json","category":"beginner"},{"title":"リビングリフォームで快適空間を実現","filename":"living-reform-2026.json","category":"beginner"},{"title":"断熱リフォームの効果と費用2026","filename":"insulation-reform-2026.json","category":"exterior"},{"title":"洗面所リフォームの費用と人気事例","filename":"washroom-reform-2026.json","category":"bathroom"},{"title":"和室から洋室への変更リフォーム費用","filename":"japanese-to-western-2026.json","category":"beginner"},{"title":"太陽光発電とリフォームのセット提案","filename":"solar-reform-set-2026.json","category":"exterior"},{"title":"リフォーム詐欺の手口と被害防止策","filename":"reform-scam-2026.json","category":"beginner"},{"title":"中古住宅購入とリフォームの費用比較","filename":"used-house-reform-2026.json","category":"beginner"},{"title":"電気工事・コンセント増設の費用","filename":"electric-reform-2026.json","category":"beginner"},{"title":"エコリフォームで光熱費を削減する方法","filename":"eco-reform-2026.json","category":"exterior"},{"title":"リフォーム工事中の仮住まい対策","filename":"temporary-housing-reform-2026.json","category":"beginner"}]
+[
+  {
+    "title": "浴室リフォームの費用と工期を解説",
+    "filename": "bathroom-cost-2026.json",
+    "category": "bathroom"
+  },
+  {
+    "title": "外壁塗装の費用相場と業者選び2026",
+    "filename": "exterior-paint-2026.json",
+    "category": "exterior"
+  },
+  {
+    "title": "リフォームで失敗しない業者選び方10選",
+    "filename": "reform-company-select-2026.json",
+    "category": "beginner"
+  },
+  {
+    "title": "トイレリフォームの費用と人気メーカー比較",
+    "filename": "toilet-reform-2026.json",
+    "category": "bathroom"
+  },
+  {
+    "title": "屋根修理・葺き替えの費用相場2026",
+    "filename": "roof-repair-2026.json",
+    "category": "exterior"
+  },
+  {
+    "title": "マンションリフォームの注意点と費用",
+    "filename": "mansion-reform-2026.json",
+    "category": "beginner"
+  },
+  {
+    "title": "リフォームローンの種類と金利比較2026",
+    "filename": "reform-loan-2026.json",
+    "category": "beginner"
+  },
+  {
+    "title": "増築リフォームの費用と注意事項",
+    "filename": "extension-reform-2026.json",
+    "category": "beginner"
+  },
+  {
+    "title": "床リフォーム（フローリング）の費用比較",
+    "filename": "floor-reform-2026.json",
+    "category": "kitchen"
+  },
+  {
+    "title": "窓リフォームで断熱・結露を解消する方法",
+    "filename": "window-reform-2026.json",
+    "category": "exterior"
+  },
+  {
+    "title": "リフォーム補助金・助成金の種類と申請法2026",
+    "filename": "reform-subsidy-2026.json",
+    "category": "beginner"
+  },
+  {
+    "title": "キッチン交換の費用と人気メーカーTOP5",
+    "filename": "kitchen-replace-2026.json",
+    "category": "kitchen"
+  },
+  {
+    "title": "バリアフリーリフォームの費用と補助金",
+    "filename": "barrier-free-2026.json",
+    "category": "beginner"
+  },
+  {
+    "title": "システムキッチンの選び方と費用比較",
+    "filename": "system-kitchen-2026.json",
+    "category": "kitchen"
+  },
+  {
+    "title": "ユニットバス交換の費用と工期を解説",
+    "filename": "unit-bath-2026.json",
+    "category": "bathroom"
+  },
+  {
+    "title": "壁紙・クロス張替えの費用相場2026",
+    "filename": "wallpaper-reform-2026.json",
+    "category": "beginner"
+  },
+  {
+    "title": "ホームプロとリショップナビの違いを比較",
+    "filename": "homepro-vs-rishop-2026.json",
+    "category": "beginner"
+  },
+  {
+    "title": "外壁サイディング工事の費用相場",
+    "filename": "siding-reform-2026.json",
+    "category": "exterior"
+  },
+  {
+    "title": "子供部屋リフォームのアイデアと費用",
+    "filename": "kids-room-reform-2026.json",
+    "category": "beginner"
+  },
+  {
+    "title": "リビングリフォームで快適空間を実現",
+    "filename": "living-reform-2026.json",
+    "category": "beginner"
+  },
+  {
+    "title": "断熱リフォームの効果と費用2026",
+    "filename": "insulation-reform-2026.json",
+    "category": "exterior"
+  },
+  {
+    "title": "洗面所リフォームの費用と人気事例",
+    "filename": "washroom-reform-2026.json",
+    "category": "bathroom"
+  },
+  {
+    "title": "和室から洋室への変更リフォーム費用",
+    "filename": "japanese-to-western-2026.json",
+    "category": "beginner"
+  },
+  {
+    "title": "太陽光発電とリフォームのセット提案",
+    "filename": "solar-reform-set-2026.json",
+    "category": "exterior"
+  },
+  {
+    "title": "リフォーム詐欺の手口と被害防止策",
+    "filename": "reform-scam-2026.json",
+    "category": "beginner"
+  },
+  {
+    "title": "中古住宅購入とリフォームの費用比較",
+    "filename": "used-house-reform-2026.json",
+    "category": "beginner"
+  },
+  {
+    "title": "電気工事・コンセント増設の費用",
+    "filename": "electric-reform-2026.json",
+    "category": "beginner"
+  },
+  {
+    "title": "エコリフォームで光熱費を削減する方法",
+    "filename": "eco-reform-2026.json",
+    "category": "exterior"
+  },
+  {
+    "title": "リフォーム工事中の仮住まい対策",
+    "filename": "temporary-housing-reform-2026.json",
+    "category": "beginner"
+  }
+]
