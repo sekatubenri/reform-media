@@ -1,6 +1,7 @@
 import type { Metadata } from 'next'
 import './globals.css'
 export const metadata: Metadata = {
+  metadataBase: new URL('https://reformselect.com'),
   title: { default: 'リフォームナビ | 費用・業者比較・事例', template: '%s | リフォームナビ' },
   description: 'キッチン・浴室・外壁などリフォームの費用相場・業者選び・事例を詳しく解説。失敗しないリフォームガイド。',
   verification: { google: 'XcyMImXtiMlMj5NBeiKQBcD_Vqrw3EDW0TDFBVTAtaA' },
