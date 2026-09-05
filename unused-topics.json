@@ -128,5 +128,125 @@
     "title": "リフォーム工事中の仮住まい対策",
     "filename": "temporary-housing-reform-2026.json",
     "category": "beginner"
+  },
+  {
+    "title": "浴室乾燥機を後付けリフォームする費用相場",
+    "filename": "bathroom-dryer-2026.json",
+    "category": "bathroom"
+  },
+  {
+    "title": "高齢者向け浴室リフォーム、手すり設置の費用",
+    "filename": "bathroom-barrier-free-2026.json",
+    "category": "bathroom"
+  },
+  {
+    "title": "洗面所リフォームの費用と人気の間取り事例",
+    "filename": "washroom-layout-2026.json",
+    "category": "bathroom"
+  },
+  {
+    "title": "カーポート・駐車場リフォームの費用相場2026",
+    "filename": "carport-reform-2026.json",
+    "category": "exterior"
+  },
+  {
+    "title": "玄関ドアの交換リフォーム費用と工期",
+    "filename": "entrance-door-reform-2026.json",
+    "category": "exterior"
+  },
+  {
+    "title": "ベランダ・バルコニー防水工事の費用相場",
+    "filename": "balcony-waterproof-2026.json",
+    "category": "exterior"
+  },
+  {
+    "title": "外壁塗装リフォームの耐用年数と塗料の選び方",
+    "filename": "gaiheki-tosou-2026.json",
+    "category": "exterior"
+  },
+  {
+    "title": "対面キッチンへのリフォーム費用と間取り変更",
+    "filename": "taimen-kitchen-2026.json",
+    "category": "kitchen"
+  },
+  {
+    "title": "IHクッキングヒーターへの交換費用と工事内容",
+    "filename": "ih-cooking-heater-2026.json",
+    "category": "kitchen"
+  },
+  {
+    "title": "キッチン収納リフォームのアイデアと費用",
+    "filename": "kitchen-storage-2026.json",
+    "category": "kitchen"
+  },
+  {
+    "title": "リフォーム見積もりの相場と適正価格の見極め方",
+    "filename": "reform-quote-check-2026.json",
+    "category": "beginner"
+  },
+  {
+    "title": "二世帯住宅リフォームの費用と間取り事例",
+    "filename": "nisetai-reform-2026.json",
+    "category": "beginner"
+  },
+  {
+    "title": "リフォームで使える住宅ローン控除・固定資産税の特例",
+    "filename": "reform-tax-deduction-2026.json",
+    "category": "beginner"
+  },
+  {
+    "title": "中古マンションのフルリノベーション費用相場",
+    "filename": "chuko-mansion-renovation-2026.json",
+    "category": "beginner"
+  },
+  {
+    "title": "リフォーム工事の騒音・近隣トラブル対策",
+    "filename": "reform-noise-trouble-2026.json",
+    "category": "beginner"
+  },
+  {
+    "title": "耐震リフォームの費用と使える補助金2026",
+    "filename": "taishin-reform-2026.json",
+    "category": "beginner"
+  },
+  {
+    "title": "増改築で必要な建築確認申請の流れと注意点",
+    "filename": "zoukaichiku-kakunin-2026.json",
+    "category": "beginner"
+  },
+  {
+    "title": "リフォーム会社とハウスメーカーの違いを比較",
+    "filename": "reform-vs-housemaker-2026.json",
+    "category": "beginner"
+  },
+  {
+    "title": "DIYでできるリフォームとプロに頼むべき境界線",
+    "filename": "diy-vs-pro-reform-2026.json",
+    "category": "beginner"
+  },
+  {
+    "title": "リフォーム工事の工期の目安と遅延を防ぐコツ",
+    "filename": "reform-schedule-2026.json",
+    "category": "beginner"
+  },
+  {
+    "title": "空き家リフォームの活用方法と使える補助金",
+    "filename": "akiya-reform-2026.json",
+    "category": "beginner"
+  },
+  {
+    "title": "リフォーム保険・工事保証の内容確認ポイント",
+    "filename": "reform-hoken-check-2026.json",
+    "category": "beginner"
+  },
+  {
+    "title": "スマートホーム化リフォームの費用と設備",
+    "filename": "smarthome-reform-2026.json",
+    "category": "beginner"
+  },
+  {
+    "title": "リフォームの相見積もりを取る際の交渉術",
+    "filename": "reform-negotiation-2026.json",
+    "category": "beginner"
   }
 ]
