@@ -1,132 +1,116 @@
 [
   {
-    "title": "トイレリフォームの費用と人気メーカー比較",
-    "filename": "toilet-reform-2026.json",
-    "category": "bathroom"
+    "filename": "kitchen-reform-failure-examples.json",
+    "title": "キッチンリフォームの失敗例10選｜後悔しないための対策と業者選び",
+    "category": "kitchen",
+    "keyword": "キッチン リフォーム 失敗 例"
   },
   {
-    "title": "屋根修理・葺き替えの費用相場2026",
-    "filename": "roof-repair-2026.json",
-    "category": "exterior"
+    "filename": "kitchen-reform-period.json",
+    "title": "キッチンリフォームの期間はどれくらい？工事内容別の日数と流れを解説",
+    "category": "kitchen",
+    "keyword": "キッチン リフォーム 期間"
   },
   {
-    "title": "マンションリフォームの注意点と費用",
-    "filename": "mansion-reform-2026.json",
-    "category": "beginner"
+    "filename": "kitchen-reform-subsidy.json",
+    "title": "キッチンリフォームで使える補助金まとめ｜対象工事と申請の流れ",
+    "category": "kitchen",
+    "keyword": "キッチン リフォーム 補助金"
   },
   {
-    "title": "リフォームローンの種類と金利比較2026",
-    "filename": "reform-loan-2026.json",
-    "category": "beginner"
+    "filename": "kitchen-door-reform-diy.json",
+    "title": "キッチン扉リフォームはDIYできる？シート貼り・扉交換の手順と費用",
+    "category": "kitchen",
+    "keyword": "キッチン 扉 リフォーム diy"
   },
   {
-    "title": "増築リフォームの費用と注意事項",
-    "filename": "extension-reform-2026.json",
-    "category": "beginner"
+    "filename": "mansion-bath-reform-cheap.json",
+    "title": "マンションのお風呂リフォームを安く抑える方法｜費用相場と節約術を解説",
+    "category": "bathroom",
+    "keyword": "お風呂 リフォーム マンション 安い"
   },
   {
-    "title": "床リフォーム（フローリング）の費用比較",
-    "filename": "floor-reform-2026.json",
-    "category": "kitchen"
+    "filename": "bath-reform-cheap-season.json",
+    "title": "お風呂リフォームが安くなる時期はいつ？閑散期と補助金の活用術を解説",
+    "category": "bathroom",
+    "keyword": "お風呂 リフォーム 安く なる 時期"
   },
   {
-    "title": "窓リフォームで断熱・結露を解消する方法",
-    "filename": "window-reform-2026.json",
-    "category": "exterior"
+    "filename": "bath-reform-maker-comparison.json",
+    "title": "お風呂リフォームのメーカー比較｜TOTO・LIXIL・パナソニック・タカラの違い",
+    "category": "bathroom",
+    "keyword": "風呂 リフォーム メーカー 比較"
   },
   {
-    "title": "リフォーム補助金・助成金の種類と申請法2026",
-    "filename": "reform-subsidy-2026.json",
-    "category": "beginner"
+    "filename": "bath-reform-subsidy.json",
+    "title": "お風呂リフォームの補助金一覧【2026年版】｜対象工事・金額・申請方法を解説",
+    "category": "bathroom",
+    "keyword": "お風呂 リフォーム 補助金"
   },
   {
-    "title": "キッチン交換の費用と人気メーカーTOP5",
-    "filename": "kitchen-replace-2026.json",
-    "category": "kitchen"
+    "filename": "conventional-bath-reform-bathtub.json",
+    "title": "在来工法のお風呂リフォーム｜浴槽交換・ユニットバス化の費用と注意点",
+    "category": "bathroom",
+    "keyword": "お風呂 リフォーム 在来工法 浴槽"
   },
   {
-    "title": "バリアフリーリフォームの費用と補助金",
-    "filename": "barrier-free-2026.json",
-    "category": "beginner"
+    "filename": "house-roof-maintenance-cycle.json",
+    "title": "戸建ての屋根メンテナンスは何年ごと？屋根材別の時期と費用目安を解説",
+    "category": "exterior",
+    "keyword": "戸建て 屋根 メンテナンス 何年"
   },
   {
-    "title": "システムキッチンの選び方と費用比較",
-    "filename": "system-kitchen-2026.json",
-    "category": "kitchen"
+    "filename": "exterior-painting-neglect-risk.json",
+    "title": "外壁塗装をしないとどうなる？放置するリスクと塗り替え時期のサイン",
+    "category": "exterior",
+    "keyword": "外壁塗装 しない と どうなる"
   },
   {
-    "title": "ユニットバス交換の費用と工期を解説",
-    "filename": "unit-bath-2026.json",
-    "category": "bathroom"
+    "filename": "roof-painting-neglect-risk.json",
+    "title": "屋根塗装をしないとどうなる？雨漏りリスクと塗装が不要な屋根材の見分け方",
+    "category": "exterior",
+    "keyword": "屋根塗装 しない と どうなる"
   },
   {
-    "title": "壁紙・クロス張替えの費用相場2026",
-    "filename": "wallpaper-reform-2026.json",
-    "category": "beginner"
+    "filename": "exterior-painting-gloss-matte.json",
+    "title": "外壁塗装の艶あり・艶なしの違い｜見た目・耐久性・費用と選び方を比較",
+    "category": "exterior",
+    "keyword": "外壁塗装 艶あり 艶なし 違い"
   },
   {
-    "title": "ホームプロとリショップナビの違いを比較",
-    "filename": "homepro-vs-rishop-2026.json",
-    "category": "beginner"
+    "filename": "tile-roof-leak-self-repair.json",
+    "title": "瓦屋根の雨漏りは自分で修理できる？応急処置の方法とプロに頼む判断基準",
+    "category": "exterior",
+    "keyword": "瓦 屋根 雨漏り 修理 自分 で"
   },
   {
-    "title": "外壁サイディング工事の費用相場",
-    "filename": "siding-reform-2026.json",
-    "category": "exterior"
+    "filename": "reform-renovation-difference.json",
+    "title": "リフォームとリノベーションの違いとは？費用・工期・事例でわかりやすく比較",
+    "category": "beginner",
+    "keyword": "リフォーム リノベーション 違い"
   },
   {
-    "title": "子供部屋リフォームのアイデアと費用",
-    "filename": "kids-room-reform-2026.json",
-    "category": "beginner"
+    "filename": "reform-comparison-site-recommend.json",
+    "title": "リフォーム比較サイトおすすめ一覧｜失敗しない一括見積もりサービスの選び方",
+    "category": "beginner",
+    "keyword": "リフォーム 比較サイト おすすめ"
   },
   {
-    "title": "リビングリフォームで快適空間を実現",
-    "filename": "living-reform-2026.json",
-    "category": "beginner"
+    "filename": "reform-bulk-estimate-demerit.json",
+    "title": "リフォーム一括見積もりのデメリットとは？しつこい営業の対策も解説",
+    "category": "beginner",
+    "keyword": "リフォーム一括見積もりデメリット"
   },
   {
-    "title": "断熱リフォームの効果と費用2026",
-    "filename": "insulation-reform-2026.json",
-    "category": "exterior"
+    "filename": "electronics-store-reform-demerit.json",
+    "title": "家電量販店のリフォームのデメリット｜工務店との違いと向いている人",
+    "category": "beginner",
+    "keyword": "家電量販店 リフォーム デメリット"
   },
   {
-    "title": "洗面所リフォームの費用と人気事例",
-    "filename": "washroom-reform-2026.json",
-    "category": "bathroom"
-  },
-  {
-    "title": "和室から洋室への変更リフォーム費用",
-    "filename": "japanese-to-western-2026.json",
-    "category": "beginner"
-  },
-  {
-    "title": "太陽光発電とリフォームのセット提案",
-    "filename": "solar-reform-set-2026.json",
-    "category": "exterior"
-  },
-  {
-    "title": "リフォーム詐欺の手口と被害防止策",
-    "filename": "reform-scam-2026.json",
-    "category": "beginner"
-  },
-  {
-    "title": "中古住宅購入とリフォームの費用比較",
-    "filename": "used-house-reform-2026.json",
-    "category": "beginner"
-  },
-  {
-    "title": "電気工事・コンセント増設の費用",
-    "filename": "electric-reform-2026.json",
-    "category": "beginner"
-  },
-  {
-    "title": "エコリフォームで光熱費を削減する方法",
-    "filename": "eco-reform-2026.json",
-    "category": "exterior"
-  },
-  {
-    "title": "リフォーム工事中の仮住まい対策",
-    "filename": "temporary-housing-reform-2026.json",
-    "category": "beginner"
+    "filename": "rebuild-vs-reform.json",
+    "title": "建て替えとリフォームの違い｜費用比較とどちらを選ぶべきかの判断基準",
+    "category": "beginner",
+    "keyword": "建て替え リフォーム 違い"
   }
 ]
