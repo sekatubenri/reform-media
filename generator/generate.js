@@ -19,6 +19,16 @@ const AFFILIATE_BOTTOM = `
     <li><a href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3774934&pid=892653514" rel="nofollow" style="color:#ff0033;text-decoration:underline;">▶ リフォーム資材・DIY用品【Yahoo!ショッピング】</a><img src="//ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3774934&pid=892653514" height="1" width="1" border="0" alt=""></li>
   </ul>
 </div>`;
+
+// リンク担当（media-ops）がトピックに合わせて用意したリンク枠。無ければ従来の固定枠を使う
+function affiliateTop(topic) {
+  try {
+    const blocks = JSON.parse(fs.readFileSync(path.join(__dirname, 'affiliate-blocks.json'), 'utf-8'));
+    return blocks[topic.filename] || AFFILIATE_TOP;
+  } catch {
+    return AFFILIATE_TOP;
+  }
+}
 async function generateArticle() {
   const topicsPath = path.join(__dirname, '..', 'unused-topics.json');
   const contentDir = path.join(__dirname, '..', 'content');
@@ -31,7 +41,7 @@ async function generateArticle() {
   const today = new Date().toISOString().split('T')[0];
   const message = await client.messages.create({
     model: 'claude-haiku-4-5-20251001', max_tokens: 6000,
-    messages: [{ role: 'user', content: `あなたはリフォームメディア「${SITE.name}」の専門ライターです。以下のJSON形式のみで出力してください:\n{"title":"タイトル(40〜60文字)","description":"説明(120文字以内)","category":"${topic.category}","date":"${today}","content":"HTMLコンテンツ"}\nトピック:${topic.title}\ncontent要件:1500文字程度のHTML、h2×3〜5個、ul/table活用、具体的な費用・業者選び含む、JSON全体を必ず完結させる` }],
+    messages: [{ role: 'user', content: `あなたはリフォームメディア「${SITE.name}」の専門ライターです。以下のJSON形式のみで出力してください:\n{"title":"タイトル(40〜60文字)","description":"説明(120文字以内)","category":"${topic.category}","date":"${today}","content":"HTMLコンテンツ"}\nトピック:${topic.title}${topic.keyword ? `\n狙う検索キーワード: ${topic.keyword}` : ''}\ncontent要件:1500文字程度のHTML、h2×3〜5個、ul/table活用、具体的な費用・業者選び含む、JSON全体を必ず完結させる` }],
   });
   const text = message.content[0].text.trim();
   console.log('レスポンス先頭200文字:', text.slice(0, 200));
@@ -39,7 +49,7 @@ async function generateArticle() {
   const jsonMatch = cleaned.match(/\{[\s\S]*\}/);
   if (!jsonMatch) throw new Error('レスポンスにJSONが見つかりません');
   const article = JSON.parse(jsonMatch[0]);
-  article.content = article.content.includes('<h2') ? article.content.replace('<h2', AFFILIATE_TOP + '<h2') : AFFILIATE_TOP + article.content;
+  article.content = article.content.includes('<h2') ? article.content.replace('<h2', affiliateTop(topic) + '<h2') : affiliateTop(topic) + article.content;
   article.content = article.content + AFFILIATE_BOTTOM;
   fs.writeFileSync(path.join(contentDir, topic.filename), JSON.stringify(article, null, 2));
   fs.writeFileSync(topicsPath, JSON.stringify(topics.filter(t => t.filename !== topic.filename), null, 2));
